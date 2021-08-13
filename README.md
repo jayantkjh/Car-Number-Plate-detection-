@@ -1,4 +1,4 @@
-# Car-Number-Plate-detection-
+# Car-Number-Plate-detection
 
 
 👉Created a model that will detect a car in a live stream or video and recognize characters on number plate of the car .
